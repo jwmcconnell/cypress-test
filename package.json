@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cypress": "^7.5.0"
+  },
+  "scripts": {
+    "test:browser:cypress": "NODE_ENV=test ./node_modules/.bin/cypress open"
+  }
+}
